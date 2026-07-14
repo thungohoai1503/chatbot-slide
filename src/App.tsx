@@ -5059,6 +5059,15 @@ export default function App() {
 
         const newSession: SavedTopicSession = {
           id: `session_${Date.now()}_${Math.random().toString(36).substring(2, 7)}`,
+          timestamp: timeString,
+          transcript: trimmed,
+          analysis: newAnalysis,
+          customAiImageUrl: null,
+        };
+
+        setSavedSessions((prev) => [newSession, ...prev]);
+        setSelectedHistoryId(newSession.id);
+
         safeSaveToLocalStorage("chatbot_messages_list", JSON.stringify(updatedMessages));
       }
     } catch (error: any) {
