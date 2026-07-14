@@ -5087,26 +5087,6 @@ export default function App() {
       const updatedMessages = [...newMessages, botMsg];
       setChatMessages(updatedMessages);
       safeSaveToLocalStorage("chatbot_messages_list", JSON.stringify(updatedMessages));
-    } finally {��i bị quá tải hoặc đạt tối đa số lượt gọi trong ngày/phút.\n\n" +
-          "👉 Cách khắc phục tức thì:\n" +
-          "1. Anh/Chị vui lòng chờ khoảng 30 giây đến 1 phút rồi bấm phân tích lại (hoặc bấm chạy kịch bản mẫu).\n" +
-          "2. Để sử dụng ổn định lâu dài và không bao giờ gặp lỗi này, Anh/Chị hãy cấu hình API Key cá nhân của mình bằng cách vào menu Settings (biểu tượng bánh răng ở góc trên bên phải) > Secrets, thêm một phím mới với tên là GEMINI_API_KEY và dán mã khóa API Key của Anh/Chị vào."
-        );
-      } else if (
-        errMsg.includes("503") ||
-        errMsg.toLowerCase().includes("demand") ||
-        errMsg.toLowerCase().includes("unavailable")
-      ) {
-        setAnalysisError(
-          "⚠️ Lỗi hệ thống quá tải (Service Unavailable - Error 503)\n\n" +
-          "Máy chủ AI Gemini của Google hiện tại đang nhận được lượng yêu cầu quá lớn từ người dùng trên toàn thế giới nên tạm thời không thể xử lý ngay lập tức (quá tải đột xuất).\n\n" +
-          "👉 Cách khắc phục:\n" +
-          "1. Anh/Chị vui lòng đợi khoảng vài chục giây rồi bấm thử phân tích lại nhé ạ.\n" +
-          "2. Nếu anh/chị đã có API Key riêng của mình, việc thiết lập khóa cá nhân trong phần Settings > Secrets với tên GEMINI_API_KEY sẽ giúp ưu tiên băng thông ổn định hơn rất nhiều."
-        );
-      } else {
-        setAnalysisError(err.message || "Không thể kết nối với máy chủ AI");
-      }
     } finally {
       setIsAnalyzing(false);
     }
