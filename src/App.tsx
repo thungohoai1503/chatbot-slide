@@ -5068,25 +5068,23 @@ export default function App() {
         setSavedSessions((prev) => [newSession, ...prev]);
         setSelectedHistoryId(newSession.id);
 
-        safeSaveToLocalStorage("chatbot_messages_list", JSON.stringify(updatedMessages));
       }
     } catch (error: any) {
       console.error("Chatbot API Error:", error);
-      
-      // Fallback locally using heuristic matcher
-      const localResult = preprocessAnalysisWithRoute(getLocalHeuristicAnalysis(trimmedInput));
+
+      const localResult = preprocessAnalysisWithRoute(getLocalHeuristicAnalysis(trimmed));
       const botReplyText = localResult.suggestion || "Dạ em chưa tìm thấy thông tin này trong dữ liệu, anh/chị vui lòng nhập rõ ý hơn hoặc liên hệ hotline để bên em hỗ trợ trực tiếp nhé ạ.";
-      
+
       const botMsg = {
         id: `bot_fallback_${Date.now()}`,
         sender: "bot" as const,
         text: botReplyText,
         timestamp: new Date().toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" })
       };
- 
-      const updatedMessages = [...newMessages, botMsg];
-      setChatMessages(updatedMessages);
-      safeSaveToLocalStorage("chatbot_messages_list", JSON.stringify(updatedMessages));
+
+      const fallbackMessages = [...chatMessages, botMsg];
+      setChatMessages(fallbackMessages);
+      safeSaveToLocalStorage("chatbot_messages_list", JSON.stringify(fallbackMessages));
     } finally {
       setIsAnalyzing(false);
     }
