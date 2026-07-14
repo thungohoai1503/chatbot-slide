@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Chatbot Lắng Nghe \u0026 Phân Tích Chủ Đề",
+  "description": "Ứng dụng lắng nghe cuộc trò chuyện qua microphone, phân tích chủ đề, tóm tắt và hiển thị hình ảnh liên quan trong thời gian thực bằng Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "customTopicImages": {
+    "Nội thất phòng tắm": [
+      "/images/noi-that-phong-tam.png",
+      "/images/noi-that-phong-tam.jpg",
+      "/images/noi-that-phong-tam.jpeg"
+    ],
+    "Tiện ích nội khu": [
+      "/images/Nyah-Phu-Dinh/tien-ich-noi-khu/tien-ich-noi-khu.jpg"
+    ]
+  },
+  "secondLevelKeywords": [
+    {
+      "id": "sub-3",
+      "parentTopic": "Nội thất nhà bếp",
+      "keyword": "giặt sấy, máy giặt, máy sấy",
+      "caption": "Giặt sấy ngay tại bếp",
+      "imageUrl": "/images/Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-nha-bep/giat-say-tai-bep/giat-say-tai-bep.jpg"
+    },
+    {
+      "id": "sub-5",
+      "parentTopic": "Nội thất nhà bếp",
+      "keyword": "bàn ăn chậm, bàn ăn, đảo bếp",
+      "caption": "Phòng ăn riêng cạnh ban công – bàn ăn chậm cho bữa tối ấm cúng",
+      "imageUrl": "/images/Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-nha-bep/ban-an-cham/ban-an-cham.jpg"
+    },
+    {
+      "id": "sub-1783326909797",
+      "parentTopic": "Nội thất nhà bếp",
+      "keyword": "bàn ăn nhanh, ăn nhanh",
+      "caption": "Quầy bar gọn gàng - bàn ăn nhanh cho bữa sáng",
+      "imageUrl": "/images/Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-nha-bep/ban-an-nhanh/ban-an-nhanh.jpg"
+    },
+    {
+      "id": "sub-1783328894891",
+      "parentTopic": "Nội thất nhà bếp",
+      "keyword": "bếp fullsize, full size",
+      "caption": "Đế chế full-size 38 m^2 cho nàng yêu bếp",
+      "imageUrl": "/images/Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-nha-bep/bep-full-size/thiet-bi-fullsize.png"
+    },
+    {
+      "id": "sub-1783565696292",
+      "parentTopic": "Tiện ích nội khu",
+      "keyword": "công viên",
+      "caption": "Công viên cây xanh",
+      "imageUrl": "/images/Nyah-Phu-Dinh/tien-ich-noi-khu/cong-vien/nyah-phu-dinh_cong-vien.png"
+    },
+    {
+      "id": "sub-1783565744352",
+      "parentTopic": "Tiện ích nội khu",
+      "keyword": "sân, thể thao",
+      "caption": "Sân thể thao, khu vui chơi đa dạng",
+      "imageUrl": "/images/Nyah-Phu-Dinh/tien-ich-noi-khu/san-the-thao/tien-ich-11.jpg"
+    }
+  ],
+  "subtitleKeywords": {
+    "bếp": "Thiết bị fullsize",
+    "tủ bếp": "Hệ tủ bếp kịch trần phủ lớp Acrylic bóng gương An Cường cao cấp, chống ẩm mốc trọn đời.",
+    "đá marble": "Mặt bếp hoàn thiện bằng đá Granite/Marble Tây Ban Nha dày 18mm chống trầy xước và chịu lực nén cực tốt.",
+    "6 tầng": "Mẫu Cosmo Gen 2 kết cấu lên đến 6 tầng (1 trệt, 1 lửng, 3 lầu, 1 tầng đa năng) tối ưu không gian sử dụng.",
+    "thang máy": "Tích hợp sẵn hố thang máy kính cường lực nhập khẩu nguyên chiếc tải trọng 450kg cực kỳ êm ái.",
+    "giếng trời": "Giếng trời thông tầng rộng 7m² đón gió tự nhiên giúp đối lưu không khí trong lành suốt 24h.",
+    "sổ hồng riêng": "Cam kết bàn giao sổ hồng riêng sở hữu lâu dài từng căn, pháp lý hoàn chỉnh tuyệt đối 100%.",
+    "chợ rẫy": "Khoảng cách từ dự án đến Bệnh viện Chợ Rẫy là 6.2 km, thuận tiện di chuyển trong vòng 15 phút.",
+    "phí quản lý 0 đồng": "Nhờ công nghệ ByteLife tự động hóa toàn khu, cư dân được hưởng đặc quyền miễn phí quản lý trọn đời.",
+    "bảo hành 5 năm": "Cam kết bảo hành kết cấu vững chắc lên đến 5 năm và hỗ trợ kỹ thuật nhanh chóng từ chủ đầu tư Nhã Đạt.",
+    "fullsize": "Không gian bếp được thiết kế thông minh hỗ trợ lắp đặt đầy đủ các thiết bị gia dụng fullsize hiện đại.",
+    "thiết bị fullsize": "Không gian bếp được thiết kế thông minh hỗ trợ lắp đặt đầy đủ các thiết bị gia dụng fullsize hiện đại.",
+    "bếp fullsize": "Không gian bếp được thiết kế thông minh hỗ trợ lắp đặt đầy đủ các thiết bị gia dụng fullsize hiện đại.",
+    "giặt sấy tại bếp": "Giặt sấy ngay tại bếp vô cùng tiện lợi, tối ưu diện tích và thuận tiện cho sinh hoạt hàng ngày.",
+    "giặt sấy ở bếp": "Giặt sấy ngay tại bếp vô cùng tiện lợi, tối ưu diện tích và thuận tiện cho sinh hoạt hàng ngày.",
+    "giặt sấy trong bếp": "Giặt sấy ngay tại bếp vô cùng tiện lợi, tối ưu diện tích và thuận tiện cho sinh hoạt hàng ngày.",
+    "giặt sấy": "Giặt sấy ngay tại bếp vô cùng tiện lợi, tối ưu diện tích và thuận tiện cho sinh hoạt hàng ngày."
+  },
+  "topicKeywords": {
+    "Dự án Nyah Phú Định": [
+      "dự án",
+      "nyah",
+      "nyah phú định",
+      "nhã đạt",
+      "nhadat",
+      "phú định",
+      "an dương vương",
+      "compound",
+      "biệt lập",
+      "shophouse",
+      "vị trí",
+      "khoảng cách"
+    ],
+    "Nội thất nhà bếp": [
+      "bếp",
+      "nhà bếp",
+      "tủ bếp",
+      "mdf",
+      "acrylic",
+      "melamine",
+      "tủ lạnh",
+      "bồn rửa",
+      "nấu ăn",
+      "nội thất bếp",
+      "hút mùi",
+      "lò vi sóng",
+      "tủ bếp chữ l",
+      "gỗ mdf",
+      "tối ưu không gian"
+    ],
+    "Mẫu nhà Cosmo Gen 2": [
+      "cosmo",
+      "gen 2",
+      "5m",
+      "9m",
+      "250m",
+      "6 tầng",
+      "mẫu nhà",
+      "mẫu nhà cosmo gen 2",
+      "mặt tiền 5m",
+      "nhà phố",
+      "cosmo gen 2",
+      "diện tích 5x9",
+      "nhà phố quận 8",
+      "kết cấu",
+      "ngang 5 m",
+      "tấm ốp tường",
+      "vật liệu xây dựng",
+      "thiết kế nhà phố",
+      "thiết kế",
+      "thang máy",
+      "nhà phố có thang máy"
+    ],
+    "Tiện ích xung quanh": [
+      "tiện ích",
+      "xung quanh",
+      "ngoại khu",
+      "gần đó",
+      "chợ",
+      "siêu thị",
+      "trường học",
+      "bệnh viện",
+      "aeon mall",
+      "coopmart",
+      "bách hóa xanh",
+      "mega market",
+      "trung tâm thương mại",
+      "tiểu học",
+      "mầm non",
+      "thcs",
+      "tiện ích xung quanh",
+      "chợ phú định"
+    ],
+    "Nội thất phòng ngủ": [
+      "phòng ngủ",
+      "giường",
+      "giường ngủ",
+      "nệm",
+      "tủ áo",
+      "tủ quần áo",
+      "đầu giường",
+      "rèm cửa",
+      "bàn trang điểm",
+      "táp đầu giường",
+      "chăn ga",
+      "máy lạnh phòng ngủ"
+    ],
+    "Nội thất phòng khách": [
+      "phòng khách",
+      "sofa",
+      "ghế tựa",
+      "bàn trà",
+      "kệ tivi",
+      "vách ốp",
+      "thảm",
+      "đèn chùm",
+      "tranh treo tường",
+      "tivi",
+      "salon",
+      "vách ngăn"
+    ],
+    "Nội thất phòng tắm": [
+      "phòng tắm",
+      "nhà vệ sinh",
+      "lavabo",
+      "vòi sen",
+      "bồn tắm",
+      "vách kính",
+      "gạch ốp",
+      "toilet",
+      "bồn cầu",
+      "gương soi",
+      "sen tắm",
+      "vệ sinh"
+    ],
+    "Chủ đề khác hoặc dự án khác": [
+      "chủ đề khác",
+      "dự án khác",
+      "ngoài danh mục",
+      "trò chuyện",
+      "tán gẫu",
+      "vui vẻ",
+      "hỏi thăm",
+      "gói hàng",
+      "tìm đồ",
+      "xe máy",
+      "chiếc quạt",
+      "mang về nhà",
+      "tư vấn",
+      "nhà đất",
+      "nyah phú định"
+    ],
+    "Pháp lý & Sổ hồng": [
+      "pháp lý 4 bước",
+      "sổ hồng riêng từng căn",
+      "sổ đỏ tổng",
+      "giấy phép xây dựng",
+      "hoàn công",
+      "pháp lý"
+    ],
+    "Bảng giá & Rổ hàng v12": [
+      "bảng giá v12",
+      "lot_42 giá 8.981 tỷ",
+      "lot_03 giá 9.71 tỷ",
+      "lot_50",
+      "lot_24",
+      "office_package",
+      "rổ hàng v12",
+      "bảng giá",
+      "lô đất",
+      "giá bán"
+    ],
+    "mẫu nhà fusion gen 5": [
+      "fusion",
+      "mẫu nhà",
+      "gen 5"
+    ],
+    "Gói bàn giao AIR & MAX": [
+      "gói bàn giao air",
+      "gói bàn giao max",
+      "gỗ an cường",
+      "điện thông minh bytelife",
+      "máy lạnh lg"
+    ],
+    "Tiện ích nội khu": [
+      "tiện ích",
+      "nội khu"
+    ]
+  },
+  "topicKnowledge": {
+    "Dự án Nyah Phú Định": "Nguồn: MASTER KNOWLEDGE BASE T3/2026 - Tổng quan toàn bộ dự án Nyah Phú Định.\n- Tên dự án: Ny’ah Phú Định. Chủ đầu tư: Công ty Nhã Đạt (nd).\n- Vị trí: 156 An Dương Vương, Phường 16, Quận 8, TP.HCM.\n- Quy mô: 50 căn biệt lập compound nhà phố và Shophouse thương mại cao cấp.\n- Thiết kế: Signature by Codinachs (Barcelona).\n- Đơn vị quản lý vận hành tự động thông minh: Hệ thống ByteLife tiên tiến giúp tối giản chi phí vận hành, đạt mức phí quản lý 0 đồng cho cư dân.",
+    "Nội thất nhà bếp": "Nguồn: MASTER KNOWLEDGE BASE T3/2026 - Phụ lục 1 – v6 & So sánh Gói hoàn thiện AIR/MAX.\n- Sàn & Tường: Gạch Porcelain (Vietceramics, Trường Thịnh, Đồng Tâm); Sơn Maxilite/Jotun trắng.\n- Hệ thống Điện: Dây dẫn Cadivi đi ngầm; Thiết bị thông minh Zigbee/Wifi; Máy chủ ByteLife (tại Bếp).\n- Hệ thống Nước: Ống PPR cấp/PVC thoát (Bình Minh); Bồn nước 1000L & Máy nước nóng NLMT 210L (Đại Thành).\n- Thiết bị vệ sinh: Trọn bộ Inax (Lavabo mặt đá granite, vòi sen tắm mưa, bồn cầu, phụ kiện). Vách kính tắm 10mm (Imundex).\n- Cửa & Kính: Cửa nhựa Composite (phụ kiện Hafele); Nhôm kính Xingfa 8mm cường lực (phụ kiện Kinlong).\n- Máy lạnh (Gói MAX): LG Âm trần cho phòng ngủ; LG Treo tường cho phòng khách và phòng ăn.\n- So sánh Gói AIR & MAX:\n  + Gói AIR: Bao gồm phần ướt & thiết bị vệ sinh, hệ thống AirTop. KHÔNG bao gồm ByteLife, Thiết bị bếp, Máy lạnh LG, Nội thất rời.\n  + Gói MAX: Bao gồm phần ướt, thiết bị vệ sinh, hệ thống AirTop, ByteLife (Máy chủ + Công tắc thông minh), Thiết bị bếp (Sink, bếp từ, hút mùi, lò vi sóng - Ván An Cường, phụ kiện Imundex), Máy lạnh LG (Âm trần & Treo tường). KHÔNG bao gồm nội thất rời (bàn, ghế, giường, tủ thờ, đồ trang trí rời).\n- Hệ thống AirTop (Sức khỏe): Lọc bụi mịn từ mái và thổi 9.5 triệu lít khí tươi/ngày giúp không gian sạch mà không cần mở cửa (Mẫu Opus công suất tăng gấp 3).\n- Công nghệ ByteLife (Smart Solution): Hơn 30 cảm biến điều khiển thiết bị theo nhịp sinh học và chuyển động. Tối ưu nhân sự bảo vệ & quản lý nội khu, cốt lõi áp dụng Phí quản lý 0 đồng cho cư dân.",
+    "Mẫu nhà Cosmo Gen 2": "Nguồn: MASTER KNOWLEDGE BASE T3/2026 - Phân tích Mẫu nhà (Product Datasheet).\n- Cosmo (Gen 2): Kích thước 5m x 9m, kết cấu 5 lầu (Trệt, lửng, 3 lầu, tầng đa năng). Thiết kế \"Super Bright\" tối ưu ánh sáng; tích hợp sẵn thang máy và 4 phòng ngủ en-suite; Giếng trời \"siêu thực\" 7m².\n- Cosmo (Gen 1): Kích thước 5m x 8.75m, kết cấu 4 lầu (Trệt, lửng, 2 lầu, 1 lầu đa năng). Mặt tiền 5m; Sảnh đón và cổng garage riêng biệt.\n- Fusion (Gen 5): Kích thước 4m x 11m, kết cấu 4.5 lầu (Trệt, lửng, 3 lầu, sân thượng). Garage cực đại cho xe bán tải; Thang biến hóa không chia đôi nhà; Phòng ngủ Master chiếm 2/3 chiều dài nhà.\n- Opus (Startup): Kích thước 4m x 12.5m, kết cấu 4.5 lầu (Trệt, lửng, 3 lầu, sân thượng). Mô hình 2-in-1: 2 tầng văn phòng Grade A (tải trọng sàn +150%); 4 tầng nhà ở cao cấp; Thang máy lên tận sân thượng. Phù hợp startup công nghệ, livestream, studio, shop online cần văn phòng đạt chuẩn Grade A (tải trọng sàn +150%, lối đi người khuyết tật, thang máy lên sân thượng). Tải trọng sàn Opus tăng thêm 150% so với nhà ở thông thường.\n- Office 1 & 2: Tổng 130.2m² (2 căn), kết cấu 7 tầng (Hầm, trệt, lửng + 4 lầu). Khối đế 3 tầng kinh doanh (chịu tải gấp 3 lần thông thường phục vụ Gym/Spa/Showroom) và 4 tầng trên gồm 28-32 căn hộ dịch vụ phong cách Cashmere. Áp dụng cho gói 2 căn Office (32.23 tỷ VNĐ): Cam kết thuê lại tổng giá trị 9.53 tỷ VNĐ trong 7 năm (Tối thiểu cam kết 3-6 năm). Có hầm nước chữa cháy riêng biệt cho các khối thương mại.\n- Mật độ: Tất cả các mẫu nhà đều xây dựng với mật độ tối đa theo quy định.",
+    "Tiện ích xung quanh": "Nguồn: MASTER KNOWLEDGE BASE T3/2026 - Tiện ích ngoại khu & nội khu.\n- Tiện ích ngoại khu: Aeon Mall Bình Tân, Co.op Mart Phú Lâm, MM Mega Market Bình Phú, Bệnh viện Chợ Rẫy, Hệ thống trường học các cấp (Phú Định, THCS, THPT).\n- Triết lý \"Chất liệu Hạnh phúc\" hội tụ 4 giá trị cốt lõi: Thở sạch sống khỏe (AirTop), Nắng tràn sức sống (Super Bright), Tự do khôn lớn (An ninh Compound), và Bật tung năng lượng (17 đặc quyền tiện ích nội khu).\n- Hệ thống 17 đặc quyền tiện ích nội khu:\n  1. Biển hiệu Ny’ah Phú Định | 2. Khu Landmark Coffee | 3. Cổng chính tự động | 4. Khu “Sạc pin” | 5. Sảnh lối vào sân | 6. Đường chính sinh hoạt nội khu | 7. Cây xanh nội khu (kèn hồng/vàng) | 8. Ghế công viên | 9. Bồn hoa công viên | 10. Khu vui chơi trẻ em | 11. Khu thể thao ngoài trời | 12. Sân bóng rổ mini | 13. Tranh graffiti | 14. Sân cầu lông | 15. Signature by Codinachs (Kiến trúc) | 16. Công viên số 2 | 17. Trạm khử khuẩn hàng shipper.\n- Phí quản lý 0 đồng: Nhờ hệ thống ByteLife tự động hóa vận hành toàn khu compound, giảm thiểu tối đa chi phí nhân sự quản lý và an ninh, lợi ích này được chuyển trực tiếp cho cư dân.",
+    "Bảng giá & Thanh toán": "Nguồn: MASTER KNOWLEDGE BASE T3/2026 - Bảng giá & Phương thức Thanh toán.\n- Rổ hàng v12:\n  + Lot_50: 11,470,000,000 VNĐ (Cosmo Gen 2 - Giá nhà chưa nội thất)\n  + Lot_42: 8,981,000,000 VNĐ (Cosmo Gen 2 - Giá nhà chưa nội thất)\n  + Lot_24: 12,751,000,000 VNĐ (Opus v3 - Giá nhà chưa nội thất)\n  + Lot_03: 9,710,000,000 VNĐ (Cosmo - Giá nhà chưa nội thất)\n  + Office_Package: 32,230,000,000 VNĐ (2 căn kèm nội thất mẫu Opus)\n- Phương thức Thanh toán (PTTT v7d):\n  + Chuẩn: 10% ký HĐ, sau đó thanh toán 3%/tháng trong 7 tháng. 8% khi nhận nhà (Gói AIR). 61% khi công chứng.\n  + Sớm (Chiết khấu): Chiết khấu = (Số tiền đóng trước) x (Hệ số x 2.9% / 12) x (Số tháng đóng trước). Hệ số: Gấp 3 lần hoặc 6 lần lãi suất tiết kiệm 9 tháng của Vietcombank (hiện là 2.9%). Ví dụ: Thanh toán ngay 50% nhận chiết khấu 4.06% (đối với gói Max).",
+    "Nội thất phòng ngủ": "Nguồn: Thiết kế nội thất phòng ngủ Cosmo Gen 2.\nSử dụng vách ốp đầu giường ấm cúng, tủ quần áo âm tường kịch trần cánh trượt kính, tích hợp bàn trang điểm nhỏ gọn và máy lạnh thổi gián tiếp bảo vệ sức khỏe.",
+    "Nội thất phòng khách": "Nguồn: Layout thiết kế phòng khách tầng lửng.\nBố trí bộ sofa chữ I cao cấp màu trung tính, bàn trà gỗ tối giản, kệ tivi treo tường và vách ốp đá vân mây sang trọng phối hợp đèn chùm ấm áp.",
+    "Nội thất phòng tắm": "Nguồn: Danh mục vật liệu bàn giao thiết bị vệ sinh.\nTrang bị lavabo đặt bàn, vòi sen đứng nóng lạnh, vách kính cường lực ngăn khu vực ướt/khô, gạch ốp tường chống thấm vân đá hiện đại.",
+    "Cosmo Gen 2 - Nhà bếp": "Nguồn: Thiết kế nội thất và hình ảnh thực tế từ thư mục Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-nha-bep.\n- Dòng sản phẩm: Cosmo Gen 2\n- Vị trí/Khu vực: Nhà bếp\n- Các hình ảnh chất lượng cao được lưu trữ tại thư mục dự án và hiển thị trực quan khi trao đổi với khách hàng.",
+    "Cosmo Gen 2 - Phòng khách": "Nguồn: Thiết kế nội thất và hình ảnh thực tế từ thư mục Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-phong-khach.\n- Dòng sản phẩm: Cosmo Gen 2\n- Vị trí/Khu vực: Phòng khách\n- Các hình ảnh chất lượng cao được lưu trữ tại thư mục dự án và hiển thị trực quan khi trao đổi với khách hàng.",
+    "Cosmo Gen 2 - Phòng ngủ": "Nguồn: Thiết kế nội thất và hình ảnh thực tế từ thư mục Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-phong-ngu.\n- Dòng sản phẩm: Cosmo Gen 2\n- Vị trí/Khu vực: Phòng ngủ\n- Các hình ảnh chất lượng cao được lưu trữ tại thư mục dự án và hiển thị trực quan khi trao đổi với khách hàng.",
+    "Cosmo Gen 2 - Phòng tắm": "Nguồn: Thiết kế nội thất và hình ảnh thực tế từ thư mục Nyah-Phu-Dinh/mau-nha-cosmo-gen-2/noi-that-phong-tam.\n- Dòng sản phẩm: Cosmo Gen 2\n- Vị trí/Khu vực: Phòng tắm\n- Các hình ảnh chất lượng cao được lưu trữ tại thư mục dự án và hiển thị trực quan khi trao đổi với khách hàng.",
+    "Fusion Gen 5 - Tầng 1: Gara & Phòng khách": "Nguồn: Thiết kế nội thất và hình ảnh thực tế từ thư mục Nyah-Phu-Dinh/mau-nha-fusion-gen-5/tang-1-gara-phong-khach.\n- Dòng sản phẩm: Fusion Gen 5\n- Vị trí/Khu vực: Tầng 1: Gara & Phòng khách\n- Các hình ảnh chất lượng cao được lưu trữ tại thư mục dự án và hiển thị trực quan khi trao đổi với khách hàng.",
+    "mẫu nhà fusion gen 5": "Tài liệu tư vấn tự tạo cho chủ đề: mẫu nhà fusion gen 5",
+    "Tiện ích nội khu": " \nBiển hiệu Ny’ah Phú Định | 2. Khu Landmark Coffee | 3. Cổng chính tự động | 4. Khu \n“Sạc pin” | 5. Sảnh lối vào sân | 6. Đường chính sinh hoạt nội khu | 7. Cây xanh nội khu \n(kèn hồng/vàng) | 8. Ghế công viên | 9. Bồn hoa công viên | 10. Khu vui chơi trẻ em | 11. \nKhu thể thao ngoài trời | 12. Sân bóng rổ mini | 13. Tranh graffiti | 14. Sân cầu lông | 15. \nSignature by Codinachs (Kiến trúc) | 16. Công viên số 2 | 17. Trạm khử khuẩn hàng \nshipper. \n"
+  },
+  "topicConciseSummaries": {
+    "Vị trí dự án Nyah Phú Định": "Trương Đình Hội, kết nối Võ Văn Kiệt 3 phút.",
+    "Tiện ích xung quanh": "Gần Aeon Mall, siêu thị CoopMart và chợ Phú Định.",
+    "Mẫu nhà Cosmo Gen 2": "Nhà phố thông minh 6 tầng siêu sáng",
+    "Nội thất nhà bếp": "Bếp chữ L kịch trần, gỗ MDF chống ẩm cao cấp.",
+    "Nội thất phòng ngủ": "Phòng ngủ ấm cúng, tối ưu ánh sáng tự nhiên.",
+    "Nội thất phòng khách": "Sofa chữ I, vách tivi đá sang trọng tinh tế.",
+    "Nội thất phòng tắm": "Vách kính ngăn nước, thiết bị vệ sinh cao cấp.",
+    "Pháp lý & Sổ hồng": "Sổ hồng riêng. pháp lý đầy đủ"
+  }
+}
