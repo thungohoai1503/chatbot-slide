@@ -1,5 +1,5 @@
 import express from "express";
-import { GoogleGenAI, Type } from "@google/genai";
+import { GoogleGenAI } from "@google/genai";
 
 const app = express();
 app.use(express.json({ limit: "50mb" }));
@@ -247,18 +247,18 @@ app.post("/api/analyze-conversation", async (req, res) => {
         responseMimeType: "application/json",
         temperature: 0,
         responseSchema: {
-          type: Type.OBJECT,
+          type: "OBJECT" as const,
           properties: {
-            topic: { type: Type.STRING },
-            category: { type: Type.STRING },
-            summary: { type: Type.STRING },
-            keywords: { type: Type.ARRAY, items: { type: Type.STRING } },
-            imageQuery: { type: Type.STRING },
-            suggestion: { type: Type.STRING },
-            slideSuggestion: { type: Type.STRING },
-            detectedDestination: { type: Type.STRING },
-            estimatedDistance: { type: Type.STRING },
-            estimatedDuration: { type: Type.STRING },
+            topic: { type: "STRING" as const },
+            category: { type: "STRING" as const },
+            summary: { type: "STRING" as const },
+            keywords: { type: "ARRAY" as const, items: { type: "STRING" as const } },
+            imageQuery: { type: "STRING" as const },
+            suggestion: { type: "STRING" as const },
+            slideSuggestion: { type: "STRING" as const },
+            detectedDestination: { type: "STRING" as const },
+            estimatedDistance: { type: "STRING" as const },
+            estimatedDuration: { type: "STRING" as const },
           },
           required: ["topic", "category", "summary", "keywords", "imageQuery", "suggestion", "slideSuggestion"],
         },
