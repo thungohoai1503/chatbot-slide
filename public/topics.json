@@ -1,0 +1,775 @@
+{
+  "generatedAt": "2026-07-15T04:45:44.456Z",
+  "sourceDir": "01_NyAh-PhuDinh",
+  "totalTopics": 33,
+  "totalImages": 181,
+  "topics": [
+    {
+      "id": "root",
+      "name": "Tổng quan Ny'ah Phú Định",
+      "path": "",
+      "keywords": [
+        "tổng quan",
+        "dự án",
+        "ny'ah",
+        "nyah",
+        "phú định",
+        "overview"
+      ],
+      "images": [
+        "ny'ah-phu-dinh-tong-quan-1.jpg",
+        "ny'ah-phu-dinh-tong-quan-10.jpg",
+        "ny'ah-phu-dinh-tong-quan-11.jpg",
+        "ny'ah-phu-dinh-tong-quan-12.jpg",
+        "ny'ah-phu-dinh-tong-quan-13.jpg",
+        "ny'ah-phu-dinh-tong-quan-2.jpg",
+        "ny'ah-phu-dinh-tong-quan-3.jpg",
+        "ny'ah-phu-dinh-tong-quan-4.jpg",
+        "ny'ah-phu-dinh-tong-quan-5.jpg",
+        "ny'ah-phu-dinh-tong-quan-6.jpg",
+        "ny'ah-phu-dinh-tong-quan-7.jpg",
+        "ny'ah-phu-dinh-tong-quan-8.jpg",
+        "ny'ah-phu-dinh-tong-quan-9.jpg"
+      ]
+    },
+    {
+      "id": "chu_dau_tu__nha_dat",
+      "name": "Chủ đầu tư - Nhã Đạt",
+      "path": "chu_dau_tu/nha_dat",
+      "keywords": [
+        "chủ đầu tư",
+        "developer",
+        "nhã đạt",
+        "nha dat",
+        "công ty",
+        "nhadat"
+      ],
+      "images": [
+        "chu_dau_tu/nha_dat/logo_nha-dat-1.jpg",
+        "chu_dau_tu/nha_dat/logo_nha-dat-1.png",
+        "chu_dau_tu/nha_dat/logo_nha-dat-2.png",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-1.jpg",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-3.jpg",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-4.jpg",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-5.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_cong-nghe-1.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_cong-nghe-2.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_cong-nghe-3.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_doi-tac.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-1.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-2.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-3.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-4.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-5.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-6.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-7.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_timeline.jpg"
+      ]
+    },
+    {
+      "id": "mat_bang",
+      "name": "Mặt bằng",
+      "path": "mat_bang",
+      "keywords": [
+        "mặt bằng",
+        "phân lô",
+        "layout",
+        "sơ đồ",
+        "bản đồ lô",
+        "diện tích"
+      ],
+      "images": [
+        "mat_bang/ban-do-phan-lo-dien-tich.jpg",
+        "mat_bang/ban-do-phan-lo_can-nha.jpg",
+        "mat_bang/ban-do-phan-lo_tinh-nang.jpg",
+        "mat_bang/opus_cau-truc-1-2-3.jpg"
+      ]
+    },
+    {
+      "id": "noi_that",
+      "name": "Nội thất",
+      "path": "noi_that",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong"
+      ],
+      "images": [
+        "noi_that/mat-tien-so-sanh.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2",
+      "name": "Nội thất - Cosmo Gen 2",
+      "path": "noi_that/cosmo_gen_2",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/cosmo-gen-2_cau-truc-1-2-3.jpg",
+        "noi_that/cosmo_gen_2/cosmo-gen-2_cau-truc-4-5-6.jpg",
+        "noi_that/cosmo_gen_2/cosmo-gen-2_mat-cat.jpg",
+        "noi_that/cosmo_gen_2/cosmo-gen-2_tinh-nang-tang-1.jpg",
+        "noi_that/cosmo_gen_2/cosmo-gen-2_tinh-nang-tang-2.jpg",
+        "noi_that/cosmo_gen_2/cosmo-gen-2_tinh-nang-tang-3.jpg",
+        "noi_that/cosmo_gen_2/cosmo-gen-2_tinh-nang-tang-4.jpg",
+        "noi_that/cosmo_gen_2/cosmo-gen-2_tong-quan.jpg",
+        "noi_that/cosmo_gen_2/cosmo-ultra-gach-bong-gio.jpg",
+        "noi_that/cosmo_gen_2/enscape_2023-07-11-17-01-28-them-nen.jpg",
+        "noi_that/cosmo_gen_2/opus-ultra-gach-bong-gio.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__bep",
+      "name": "Nội thất - Cosmo Gen 2 - Bếp",
+      "path": "noi_that/cosmo_gen_2/bep",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "bếp",
+        "kitchen",
+        "nấu ăn",
+        "phòng bếp",
+        "phòng ăn"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/bep/cosmo-gen-2_bep.png"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__gara",
+      "name": "Nội thất - Cosmo Gen 2 - Gara",
+      "path": "noi_that/cosmo_gen_2/gara",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "gara",
+        "garage",
+        "để xe",
+        "đậu xe",
+        "ô tô"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/gara/cosmo-gen-2_gara.png"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__phong_khach",
+      "name": "Nội thất - Cosmo Gen 2 - Phòng khách",
+      "path": "noi_that/cosmo_gen_2/phong_khach",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "phòng khách",
+        "living room",
+        "tiếp khách",
+        "sinh hoạt"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/phong_khach/cosmo-gen-2_phong-khach.png"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__phong_ngu",
+      "name": "Nội thất - Cosmo Gen 2 - Phòng ngủ",
+      "path": "noi_that/cosmo_gen_2/phong_ngu",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "phòng ngủ",
+        "bedroom",
+        "ngủ",
+        "nghỉ ngơi",
+        "master bedroom"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/phong_ngu/cosmo-gen-2_noi-that-ngu-master.png",
+        "noi_that/cosmo_gen_2/phong_ngu/cosmo-gen-2_phong-ngu-con-2.png",
+        "noi_that/cosmo_gen_2/phong_ngu/cosmo-gen-2_phong-ngu-con-3.png",
+        "noi_that/cosmo_gen_2/phong_ngu/cosmo-gen-2_tang-2-phong-ngu-ong-ba-1.png"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__wc",
+      "name": "Nội thất - Cosmo Gen 2 - WC",
+      "path": "noi_that/cosmo_gen_2/wc",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "wc",
+        "toilet",
+        "nhà vệ sinh",
+        "phòng tắm",
+        "bathroom"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/wc/cosmo-gen-2_wc.png"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5",
+      "name": "Nội thất - Fusion Gen 5",
+      "path": "noi_that/fusion_gen_5",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/enscape_2025-10-22-14-44-00.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_cau-truc-1-2-3.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_cau-truc-4-5-6.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_mat-tien.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_tinh-nang-tang-1.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_tinh-nang-tang-2.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_tinh-nang-tang-3.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_tinh-nang-tang-4.jpg",
+        "noi_that/fusion_gen_5/fusion-gen-5_tong-quan.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__bep",
+      "name": "Nội thất - Fusion Gen 5 - Bếp",
+      "path": "noi_that/fusion_gen_5/bep",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "bếp",
+        "kitchen",
+        "nấu ăn",
+        "phòng bếp",
+        "phòng ăn"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/bep/fusion-gen-5_tang-3.png",
+        "noi_that/fusion_gen_5/bep/nyah-phu-dinh_mat-bang-tang-3.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__gara",
+      "name": "Nội thất - Fusion Gen 5 - Gara",
+      "path": "noi_that/fusion_gen_5/gara",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "gara",
+        "garage",
+        "để xe",
+        "đậu xe",
+        "ô tô"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/gara/fusion-gen-5_gara.png"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__phong_khach",
+      "name": "Nội thất - Fusion Gen 5 - Phòng khách",
+      "path": "noi_that/fusion_gen_5/phong_khach",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "phòng khách",
+        "living room",
+        "tiếp khách",
+        "sinh hoạt"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/phong_khach/fusion-gen-5_phong-khach.png",
+        "noi_that/fusion_gen_5/phong_khach/nyah-phu-ding_mat-bang-tang-1.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__phong_ngu",
+      "name": "Nội thất - Fusion Gen 5 - Phòng ngủ",
+      "path": "noi_that/fusion_gen_5/phong_ngu",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "phòng ngủ",
+        "bedroom",
+        "ngủ",
+        "nghỉ ngơi",
+        "master bedroom"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/phong_ngu/fusion-gen-5_master-bedroom.png",
+        "noi_that/fusion_gen_5/phong_ngu/fusion-gen-5_phong-hoc.png",
+        "noi_that/fusion_gen_5/phong_ngu/fusion-gen-5_phong-ngu-con.png",
+        "noi_that/fusion_gen_5/phong_ngu/nyah-phu-dinh_mat-bang-tang-2.jpg",
+        "noi_that/fusion_gen_5/phong_ngu/nyah-phu-dinh_mat-bang-tang-4.jpg",
+        "noi_that/fusion_gen_5/phong_ngu/nyah-phu-dinh_mat-bang-tang-5.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__tang-2",
+      "name": "Nội thất - Fusion Gen 5 - Tầng 2",
+      "path": "noi_that/fusion_gen_5/tang-2",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "tang 2"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/tang-2/fusion-gen-5_tang-2.png"
+      ]
+    },
+    {
+      "id": "noi_that__opus",
+      "name": "Nội thất - Opus",
+      "path": "noi_that/opus",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus"
+      ],
+      "images": [
+        "noi_that/opus/opus_mat-tien.jpg",
+        "noi_that/opus/opus_tinh-nang-tang-1-2.jpg",
+        "noi_that/opus/opus_tinh-nang-tang-1.jpg",
+        "noi_that/opus/opus_tinh-nang-tang-3.jpg",
+        "noi_that/opus/opus_tinh-nang-tang-4.jpg",
+        "noi_that/opus/opus_tong-quan.jpg",
+        "noi_that/opus/opus_vi-tri.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__bep",
+      "name": "Nội thất - Opus - Bếp",
+      "path": "noi_that/opus/bep",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "bếp",
+        "kitchen",
+        "nấu ăn",
+        "phòng bếp",
+        "phòng ăn"
+      ],
+      "images": [
+        "noi_that/opus/bep/opus_bep.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__phong_ngu",
+      "name": "Nội thất - Opus - Phòng ngủ",
+      "path": "noi_that/opus/phong_ngu",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "phòng ngủ",
+        "bedroom",
+        "ngủ",
+        "nghỉ ngơi",
+        "master bedroom"
+      ],
+      "images": [
+        "noi_that/opus/phong_ngu/opus_phong-ngu-1.jpg",
+        "noi_that/opus/phong_ngu/opus_phong-ngu-2.jpg",
+        "noi_that/opus/phong_ngu/opus_phong-ngu-master.jpg",
+        "noi_that/opus/phong_ngu/opus_sanh-master.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__showroom",
+      "name": "Nội thất - Opus - Showroom",
+      "path": "noi_that/opus/showroom",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "showroom",
+        "nhà mẫu",
+        "phòng trưng bày"
+      ],
+      "images": [
+        "noi_that/opus/showroom/enscape_2023-01-16-20-23-36.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__van phong",
+      "name": "Nội thất - Opus - Văn phòng",
+      "path": "noi_that/opus/van phong",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "văn phòng",
+        "office",
+        "làm việc"
+      ],
+      "images": [
+        "noi_that/opus/van phong/enscape_2023-01-16-19-33-57.jpg",
+        "noi_that/opus/van phong/enscape_2023-01-16-19-59-50.jpg",
+        "noi_that/opus/van phong/opus_tang-1.jpg",
+        "noi_that/opus/van phong/opus_tang-2.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__wc",
+      "name": "Nội thất - Opus - WC",
+      "path": "noi_that/opus/wc",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "wc",
+        "toilet",
+        "nhà vệ sinh",
+        "phòng tắm",
+        "bathroom"
+      ],
+      "images": [
+        "noi_that/opus/wc/opus_wc.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__signature_by_codinachs",
+      "name": "Nội thất - Signature by Codinachs",
+      "path": "noi_that/signature_by_codinachs",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "signature",
+        "codinachs",
+        "dòng signature"
+      ],
+      "images": [
+        "noi_that/signature_by_codinachs/6-mbr-1.jpg",
+        "noi_that/signature_by_codinachs/bep-1.jpg",
+        "noi_that/signature_by_codinachs/bep-2.jpg",
+        "noi_that/signature_by_codinachs/phong-khach-01-kt-pc.jpg",
+        "noi_that/signature_by_codinachs/phong-khach-01.jpg",
+        "noi_that/signature_by_codinachs/phong-khach-01b.jpg",
+        "noi_that/signature_by_codinachs/phong-khach-02.jpg",
+        "noi_that/signature_by_codinachs/phong-khach-03-kt-pc.jpg",
+        "noi_that/signature_by_codinachs/phong-khach-03.jpg",
+        "noi_that/signature_by_codinachs/phong-khach-04.jpg",
+        "noi_that/signature_by_codinachs/phong-ngu-master-bedroom-1.jpg",
+        "noi_that/signature_by_codinachs/phong-ngu-master-bedroom-2.jpg",
+        "noi_that/signature_by_codinachs/phong-ngu-master-bedroom-3.jpg",
+        "noi_that/signature_by_codinachs/phong-ngu-master-bedroom-4.jpg",
+        "noi_that/signature_by_codinachs/phong-ngu-master-bedroom-5.jpg",
+        "noi_that/signature_by_codinachs/san-thuong-1.jpg",
+        "noi_that/signature_by_codinachs/san-thuong-2.jpg",
+        "noi_that/signature_by_codinachs/san-thuong-3.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-bang-1.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-bang-2.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-bang-3.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-bang-4.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-bang-5.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-bang-6.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-tien-43-44.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-tien-43.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-mat-tien-44.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-phoi-canh-1.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-phoi-canh-2.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-phoi-canh-3.jpg",
+        "noi_that/signature_by_codinachs/signature_by_codinachs-phoi-canh-4.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__thang_xoan",
+      "name": "Nội thất - Thang xoắn",
+      "path": "noi_that/thang_xoan",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "thang xoắn",
+        "cầu thang",
+        "staircase",
+        "thang"
+      ],
+      "images": [
+        "noi_that/thang_xoan/1.jpg",
+        "noi_that/thang_xoan/5v5a3952-png.jpg",
+        "noi_that/thang_xoan/5v5a3970-png.jpg",
+        "noi_that/thang_xoan/5v5a3981-png.jpg",
+        "noi_that/thang_xoan/generated-image-march-25-2026-10_18am.jpg",
+        "noi_that/thang_xoan/thang-xoan.jpg"
+      ]
+    },
+    {
+      "id": "phap_ly",
+      "name": "Pháp lý",
+      "path": "phap_ly",
+      "keywords": [
+        "pháp lý",
+        "legal",
+        "giấy tờ",
+        "hợp đồng"
+      ],
+      "images": [
+        "phap_ly/logo_nyahphudinh_210531_f-02.png"
+      ]
+    },
+    {
+      "id": "tien_do__xay_dung",
+      "name": "Tiến độ - Xây dựng",
+      "path": "tien_do/xay_dung",
+      "keywords": [
+        "tiến độ",
+        "progress",
+        "xây dựng",
+        "thi công",
+        "construction",
+        "công trình"
+      ],
+      "images": [
+        "tien_do/xay_dung/thang_05-2026-1-jpg.jpg",
+        "tien_do/xay_dung/thang_05-2026-2.jpg",
+        "tien_do/xay_dung/thang_05-2026-3.jpg",
+        "tien_do/xay_dung/thang_05-2026-4.jpg",
+        "tien_do/xay_dung/thang_05-2026-5.jpg",
+        "tien_do/xay_dung/thang_05-2026-6.jpg",
+        "tien_do/xay_dung/thang_05-2026-7.jpg",
+        "tien_do/xay_dung/thang_05-2026-8.jpg",
+        "tien_do/xay_dung/thang_05-2026-9-jpg.jpg",
+        "tien_do/xay_dung/thang_06-2026-1.jpg",
+        "tien_do/xay_dung/thang_06-2026-10.jpg",
+        "tien_do/xay_dung/thang_06-2026-11.jpg",
+        "tien_do/xay_dung/thang_06-2026-12.jpg",
+        "tien_do/xay_dung/thang_06-2026-2.jpg",
+        "tien_do/xay_dung/thang_06-2026-3.jpg",
+        "tien_do/xay_dung/thang_06-2026-4.jpg",
+        "tien_do/xay_dung/thang_06-2026-5.jpg",
+        "tien_do/xay_dung/thang_06-2026-6.jpg",
+        "tien_do/xay_dung/thang_06-2026-7.jpg",
+        "tien_do/xay_dung/thang_06-2026-8.jpg",
+        "tien_do/xay_dung/thang_06-2026-9.jpg"
+      ]
+    },
+    {
+      "id": "tien_ich__cong_vao",
+      "name": "Tiện ích - Cổng vào",
+      "path": "tien_ich/cong_vao",
+      "keywords": [
+        "tiện ích",
+        "amenity",
+        "facilities",
+        "dịch vụ",
+        "cổng",
+        "lối vào",
+        "entrance",
+        "gate"
+      ],
+      "images": [
+        "tien_ich/cong_vao/tien-ich-1.jpg",
+        "tien_ich/cong_vao/tien-ich-2.jpg",
+        "tien_ich/cong_vao/tien-ich-3.jpg",
+        "tien_ich/cong_vao/tien-ich-4.jpg",
+        "tien_ich/cong_vao/tien-ich-7.jpg"
+      ]
+    },
+    {
+      "id": "tien_ich__cong_vien",
+      "name": "Tiện ích - Công viên",
+      "path": "tien_ich/cong_vien",
+      "keywords": [
+        "tiện ích",
+        "amenity",
+        "facilities",
+        "dịch vụ",
+        "công viên",
+        "park",
+        "vườn hoa"
+      ],
+      "images": [
+        "tien_ich/cong_vien/nyah-phu-dinh_cong-vien.png",
+        "tien_ich/cong_vien/tien-ich-12.jpg"
+      ]
+    },
+    {
+      "id": "tien_ich__landmark_coffee",
+      "name": "Tiện ích - Landmark Coffee",
+      "path": "tien_ich/landmark_coffee",
+      "keywords": [
+        "tiện ích",
+        "amenity",
+        "facilities",
+        "dịch vụ",
+        "coffee",
+        "cà phê",
+        "cafe",
+        "landmark"
+      ],
+      "images": [
+        "tien_ich/landmark_coffee/enscape_2021-08-16-11-21-00.jpg",
+        "tien_ich/landmark_coffee/tien-ich-8.jpg"
+      ]
+    },
+    {
+      "id": "tien_ich__lanscape-khuon-vien-anh-chup",
+      "name": "Tiện ích - Khuôn viên (ảnh chụp)",
+      "path": "tien_ich/lanscape-khuon-vien-anh-chup",
+      "keywords": [
+        "tiện ích",
+        "amenity",
+        "facilities",
+        "dịch vụ",
+        "khuôn viên",
+        "ảnh chụp",
+        "thực tế"
+      ],
+      "images": [
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-13-01-55.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-14-00-56.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-14-31-04.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-16-04-21.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-11-15-00.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-12-23-26.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-14-11-29.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-14-27-41.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-14-38-46.jpg"
+      ]
+    },
+    {
+      "id": "tien_ich__san_choi_tre_em",
+      "name": "Tiện ích - Sân chơi trẻ em",
+      "path": "tien_ich/san_choi_tre_em",
+      "keywords": [
+        "tiện ích",
+        "amenity",
+        "facilities",
+        "dịch vụ",
+        "sân chơi",
+        "trẻ em",
+        "playground",
+        "kids",
+        "thiếu nhi"
+      ],
+      "images": [
+        "tien_ich/san_choi_tre_em/enscape_2021-08-11-12-23-26.jpg",
+        "tien_ich/san_choi_tre_em/tien-ich-5.jpg",
+        "tien_ich/san_choi_tre_em/tien-ich-6.jpg"
+      ]
+    },
+    {
+      "id": "tien_ich__san_the_thao",
+      "name": "Tiện ích - Sân thể thao",
+      "path": "tien_ich/san_the_thao",
+      "keywords": [
+        "tiện ích",
+        "amenity",
+        "facilities",
+        "dịch vụ",
+        "thể thao",
+        "sport",
+        "gym",
+        "tập",
+        "sân thể thao"
+      ],
+      "images": [
+        "tien_ich/san_the_thao/enscape_2021-08-09-12-13-47-copy.jpg",
+        "tien_ich/san_the_thao/enscape_2021-08-09-13-19-05.jpg",
+        "tien_ich/san_the_thao/tien-ich-11.jpg",
+        "tien_ich/san_the_thao/tien-ich-9.jpg"
+      ]
+    },
+    {
+      "id": "vi_tri__duong_di",
+      "name": "Vị trí - Đường đi",
+      "path": "vi_tri/duong_di",
+      "keywords": [
+        "vị trí",
+        "location",
+        "ở đâu",
+        "địa chỉ",
+        "bản đồ",
+        "đường đi",
+        "direction",
+        "di chuyển",
+        "route"
+      ],
+      "images": [
+        "vi_tri/duong_di/18_phut_den_quan_1_chi_tiet.jpg",
+        "vi_tri/duong_di/vi_tri.jpg"
+      ]
+    }
+  ]
+}
