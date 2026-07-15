@@ -145,20 +145,34 @@ function collectKeywordsFromPath(parts) {
   return [...keywords];
 }
 
+function collectAllImages(dir, basePath) {
+  const all = [];
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const e of entries) {
+    if (e.isFile() && IMAGE_EXTS.has(path.extname(e.name).toLowerCase())) {
+      all.push(basePath ? `${basePath}/${e.name}` : e.name);
+    } else if (e.isDirectory()) {
+      all.push(...collectAllImages(path.join(dir, e.name), basePath ? `${basePath}/${e.name}` : e.name));
+    }
+  }
+  return all;
+}
+
 function scanDirectory(dir, relativeParts = []) {
   const topics = [];
   const entries = fs.readdirSync(dir, { withFileTypes: true });
 
-  const images = entries
+  const directImages = entries
     .filter(e => e.isFile() && IMAGE_EXTS.has(path.extname(e.name).toLowerCase()))
     .map(e => e.name);
 
   const subdirs = entries.filter(e => e.isDirectory());
 
-  if (images.length > 0) {
+  const topicPath = relativeParts.join("/");
+
+  if (directImages.length > 0) {
     const topicId = relativeParts.length > 0 ? relativeParts.join("__") : "root";
     const topicName = relativeParts.length > 0 ? buildTopicPath(relativeParts) : "Tổng quan Ny'ah Phú Định";
-    const topicPath = relativeParts.join("/");
     const keywords = relativeParts.length > 0
       ? collectKeywordsFromPath(relativeParts)
       : ["tổng quan", "dự án", "ny'ah", "nyah", "phú định", "overview"];
@@ -168,8 +182,24 @@ function scanDirectory(dir, relativeParts = []) {
       name: topicName,
       path: topicPath,
       keywords,
-      images: images.map(img => topicPath ? `${topicPath}/${img}` : img),
+      images: directImages.map(img => topicPath ? `${topicPath}/${img}` : img),
     });
+  } else if (subdirs.length > 0 && relativeParts.length > 0) {
+    // Parent folder has no direct images but has children — aggregate all descendant images
+    const allDescendantImages = collectAllImages(dir, topicPath);
+    if (allDescendantImages.length > 0) {
+      const topicId = relativeParts.join("__");
+      const topicName = buildTopicPath(relativeParts);
+      const keywords = collectKeywordsFromPath(relativeParts);
+
+      topics.push({
+        id: topicId,
+        name: topicName,
+        path: topicPath,
+        keywords,
+        images: allDescendantImages,
+      });
+    }
   }
 
   for (const sub of subdirs) {

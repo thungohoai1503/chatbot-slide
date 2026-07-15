@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T06:34:14.637Z",
+  "generatedAt": "2026-07-15T06:38:04.583Z",
   "sourceDir": "01_NyAh-PhuDinh",
-  "totalTopics": 51,
-  "totalImages": 236,
+  "totalTopics": 55,
+  "totalImages": 303,
   "topics": [
     {
       "id": "root",
@@ -30,6 +30,39 @@
         "ny'ah-phu-dinh-tong-quan-7.jpg",
         "ny'ah-phu-dinh-tong-quan-8.jpg",
         "ny'ah-phu-dinh-tong-quan-9.jpg"
+      ]
+    },
+    {
+      "id": "chu_dau_tu",
+      "name": "Chủ đầu tư",
+      "path": "chu_dau_tu",
+      "keywords": [
+        "chủ đầu tư",
+        "developer",
+        "nhã đạt",
+        "nha dat",
+        "công ty"
+      ],
+      "images": [
+        "chu_dau_tu/nha_dat/logo_nha-dat-1.jpg",
+        "chu_dau_tu/nha_dat/logo_nha-dat-1.png",
+        "chu_dau_tu/nha_dat/logo_nha-dat-2.png",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-1.jpg",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-3.jpg",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-4.jpg",
+        "chu_dau_tu/nha_dat/nha-dat-tieu-chi-5.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_cong-nghe-1.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_cong-nghe-2.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_cong-nghe-3.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_doi-tac.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-1.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-2.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-3.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-4.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-5.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-6.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_du-an-7.jpg",
+        "chu_dau_tu/nha_dat/nha-dat_timeline.jpg"
       ]
     },
     {
@@ -993,6 +1026,40 @@
       ]
     },
     {
+      "id": "tien_do",
+      "name": "Tiến độ",
+      "path": "tien_do",
+      "keywords": [
+        "tiến độ",
+        "progress",
+        "xây dựng",
+        "thi công"
+      ],
+      "images": [
+        "tien_do/xay_dung/thang_05-2026-1-jpg.jpg",
+        "tien_do/xay_dung/thang_05-2026-2.jpg",
+        "tien_do/xay_dung/thang_05-2026-3.jpg",
+        "tien_do/xay_dung/thang_05-2026-4.jpg",
+        "tien_do/xay_dung/thang_05-2026-5.jpg",
+        "tien_do/xay_dung/thang_05-2026-6.jpg",
+        "tien_do/xay_dung/thang_05-2026-7.jpg",
+        "tien_do/xay_dung/thang_05-2026-8.jpg",
+        "tien_do/xay_dung/thang_05-2026-9-jpg.jpg",
+        "tien_do/xay_dung/thang_06-2026-1.jpg",
+        "tien_do/xay_dung/thang_06-2026-10.jpg",
+        "tien_do/xay_dung/thang_06-2026-11.jpg",
+        "tien_do/xay_dung/thang_06-2026-12.jpg",
+        "tien_do/xay_dung/thang_06-2026-2.jpg",
+        "tien_do/xay_dung/thang_06-2026-3.jpg",
+        "tien_do/xay_dung/thang_06-2026-4.jpg",
+        "tien_do/xay_dung/thang_06-2026-5.jpg",
+        "tien_do/xay_dung/thang_06-2026-6.jpg",
+        "tien_do/xay_dung/thang_06-2026-7.jpg",
+        "tien_do/xay_dung/thang_06-2026-8.jpg",
+        "tien_do/xay_dung/thang_06-2026-9.jpg"
+      ]
+    },
+    {
       "id": "tien_do__xay_dung",
       "name": "Tiến độ - Xây dựng",
       "path": "tien_do/xay_dung",
@@ -1026,6 +1093,44 @@
         "tien_do/xay_dung/thang_06-2026-7.jpg",
         "tien_do/xay_dung/thang_06-2026-8.jpg",
         "tien_do/xay_dung/thang_06-2026-9.jpg"
+      ]
+    },
+    {
+      "id": "tien_ich",
+      "name": "Tiện ích",
+      "path": "tien_ich",
+      "keywords": [
+        "tiện ích",
+        "amenity",
+        "facilities",
+        "dịch vụ"
+      ],
+      "images": [
+        "tien_ich/cong_vao/tien-ich-1.jpg",
+        "tien_ich/cong_vao/tien-ich-2.jpg",
+        "tien_ich/cong_vao/tien-ich-3.jpg",
+        "tien_ich/cong_vao/tien-ich-4.jpg",
+        "tien_ich/cong_vao/tien-ich-7.jpg",
+        "tien_ich/cong_vien/nyah-phu-dinh_cong-vien.png",
+        "tien_ich/cong_vien/tien-ich-12.jpg",
+        "tien_ich/landmark_coffee/enscape_2021-08-16-11-21-00.jpg",
+        "tien_ich/landmark_coffee/tien-ich-8.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-13-01-55.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-14-00-56.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-14-31-04.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-09-16-04-21.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-11-15-00.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-12-23-26.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-14-11-29.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-14-27-41.jpg",
+        "tien_ich/lanscape-khuon-vien-anh-chup/enscape_2021-08-11-14-38-46.jpg",
+        "tien_ich/san_choi_tre_em/enscape_2021-08-11-12-23-26.jpg",
+        "tien_ich/san_choi_tre_em/tien-ich-5.jpg",
+        "tien_ich/san_choi_tre_em/tien-ich-6.jpg",
+        "tien_ich/san_the_thao/enscape_2021-08-09-12-13-47-copy.jpg",
+        "tien_ich/san_the_thao/enscape_2021-08-09-13-19-05.jpg",
+        "tien_ich/san_the_thao/tien-ich-11.jpg",
+        "tien_ich/san_the_thao/tien-ich-9.jpg"
       ]
     },
     {
@@ -1153,6 +1258,22 @@
         "tien_ich/san_the_thao/enscape_2021-08-09-13-19-05.jpg",
         "tien_ich/san_the_thao/tien-ich-11.jpg",
         "tien_ich/san_the_thao/tien-ich-9.jpg"
+      ]
+    },
+    {
+      "id": "vi_tri",
+      "name": "Vị trí",
+      "path": "vi_tri",
+      "keywords": [
+        "vị trí",
+        "location",
+        "ở đâu",
+        "địa chỉ",
+        "bản đồ"
+      ],
+      "images": [
+        "vi_tri/duong_di/18_phut_den_quan_1_chi_tiet.jpg",
+        "vi_tri/duong_di/vi_tri.jpg"
       ]
     },
     {
