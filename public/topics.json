@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T04:45:44.456Z",
+  "generatedAt": "2026-07-15T06:34:14.637Z",
   "sourceDir": "01_NyAh-PhuDinh",
-  "totalTopics": 33,
-  "totalImages": 181,
+  "totalTopics": 51,
+  "totalImages": 236,
   "topics": [
     {
       "id": "root",
@@ -217,6 +217,116 @@
       ]
     },
     {
+      "id": "noi_that__cosmo_gen_2__tang_1_gara_phong_khach",
+      "name": "Nội thất - Cosmo Gen 2 - Tầng 1 - Gara & Phòng khách",
+      "path": "noi_that/cosmo_gen_2/tang_1_gara_phong_khach",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "tầng 1",
+        "gara",
+        "phòng khách",
+        "tầng trệt"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/tang_1_gara_phong_khach/cosmo-gen-2_gara.png",
+        "noi_that/cosmo_gen_2/tang_1_gara_phong_khach/cosmo-gen-2_phong-khach.png",
+        "noi_that/cosmo_gen_2/tang_1_gara_phong_khach/cosmo-gen-2_tinh-nang-tang-1.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__tang_2_lung_phong_ngu_ong_ba",
+      "name": "Nội thất - Cosmo Gen 2 - Tầng 2 lửng - Phòng ngủ ông bà",
+      "path": "noi_that/cosmo_gen_2/tang_2_lung_phong_ngu_ong_ba",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "tầng 2",
+        "tầng lửng",
+        "phòng ngủ ông bà",
+        "ông bà"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/tang_2_lung_phong_ngu_ong_ba/cosmo-gen-2_tang-2-phong-ngu-ong-ba-1.png",
+        "noi_that/cosmo_gen_2/tang_2_lung_phong_ngu_ong_ba/cosmo-gen-2_tinh-nang-tang-2.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__tang_3_bep_phong_an",
+      "name": "Nội thất - Cosmo Gen 2 - Tầng 3 - Bếp & Phòng ăn",
+      "path": "noi_that/cosmo_gen_2/tang_3_bep_phong_an",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "tầng 3",
+        "bếp",
+        "phòng ăn"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/tang_3_bep_phong_an/cosmo-gen-2_bep.png",
+        "noi_that/cosmo_gen_2/tang_3_bep_phong_an/cosmo-gen-2_tinh-nang-tang-3.jpg",
+        "noi_that/cosmo_gen_2/tang_3_bep_phong_an/cosmo-gen-2_wc.png"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__tang_4_master_suite",
+      "name": "Nội thất - Cosmo Gen 2 - Tầng 4 - Master Suite",
+      "path": "noi_that/cosmo_gen_2/tang_4_master_suite",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "tầng 4",
+        "master",
+        "suite",
+        "phòng ngủ chính"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/tang_4_master_suite/cosmo-gen-2_noi-that-ngu-master.png",
+        "noi_that/cosmo_gen_2/tang_4_master_suite/cosmo-gen-2_tinh-nang-tang-4.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__cosmo_gen_2__tang_5_phong_ngu_tre_em",
+      "name": "Nội thất - Cosmo Gen 2 - Tầng 5 - Phòng ngủ trẻ em",
+      "path": "noi_that/cosmo_gen_2/tang_5_phong_ngu_tre_em",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "cosmo",
+        "cosmo gen 2",
+        "dòng cosmo",
+        "tầng 5",
+        "trẻ em",
+        "phòng ngủ con"
+      ],
+      "images": [
+        "noi_that/cosmo_gen_2/tang_5_phong_ngu_tre_em/cosmo-gen-2_phong-ngu-con-2.png",
+        "noi_that/cosmo_gen_2/tang_5_phong_ngu_tre_em/cosmo-gen-2_phong-ngu-con-3.png"
+      ]
+    },
+    {
       "id": "noi_that__cosmo_gen_2__wc",
       "name": "Nội thất - Cosmo Gen 2 - WC",
       "path": "noi_that/cosmo_gen_2/wc",
@@ -376,6 +486,119 @@
       ]
     },
     {
+      "id": "noi_that__fusion_gen_5__tang_1_gara_phong_khach",
+      "name": "Nội thất - Fusion Gen 5 - Tầng 1 - Gara & Phòng khách",
+      "path": "noi_that/fusion_gen_5/tang_1_gara_phong_khach",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "tầng 1",
+        "gara",
+        "phòng khách",
+        "tầng trệt"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/tang_1_gara_phong_khach/fusion-gen-5_gara.png",
+        "noi_that/fusion_gen_5/tang_1_gara_phong_khach/fusion-gen-5_phong-khach.png",
+        "noi_that/fusion_gen_5/tang_1_gara_phong_khach/fusion-gen-5_tinh-nang-tang-1.jpg",
+        "noi_that/fusion_gen_5/tang_1_gara_phong_khach/nyah-phu-ding_mat-bang-tang-1.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__tang_2_lung_phong_ngu_ong_ba",
+      "name": "Nội thất - Fusion Gen 5 - Tầng 2 lửng - Phòng ngủ ông bà",
+      "path": "noi_that/fusion_gen_5/tang_2_lung_phong_ngu_ong_ba",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "tầng 2",
+        "tầng lửng",
+        "phòng ngủ ông bà",
+        "ông bà"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/tang_2_lung_phong_ngu_ong_ba/fusion-gen-5_tinh-nang-tang-2.jpg",
+        "noi_that/fusion_gen_5/tang_2_lung_phong_ngu_ong_ba/nyah-phu-dinh_mat-bang-tang-2.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__tang_3_bep_phong_an",
+      "name": "Nội thất - Fusion Gen 5 - Tầng 3 - Bếp & Phòng ăn",
+      "path": "noi_that/fusion_gen_5/tang_3_bep_phong_an",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "tầng 3",
+        "bếp",
+        "phòng ăn"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/tang_3_bep_phong_an/fusion-gen-5_tang-3.png",
+        "noi_that/fusion_gen_5/tang_3_bep_phong_an/fusion-gen-5_tinh-nang-tang-3.jpg",
+        "noi_that/fusion_gen_5/tang_3_bep_phong_an/nyah-phu-dinh_mat-bang-tang-3.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__tang_4_master_suite",
+      "name": "Nội thất - Fusion Gen 5 - Tầng 4 - Master Suite",
+      "path": "noi_that/fusion_gen_5/tang_4_master_suite",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "tầng 4",
+        "master",
+        "suite",
+        "phòng ngủ chính"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/tang_4_master_suite/fusion-gen-5_master-bedroom.png",
+        "noi_that/fusion_gen_5/tang_4_master_suite/fusion-gen-5_tinh-nang-tang-4.jpg",
+        "noi_that/fusion_gen_5/tang_4_master_suite/nyah-phu-dinh_mat-bang-tang-4.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__fusion_gen_5__tang_5_phong_ngu_tre_em",
+      "name": "Nội thất - Fusion Gen 5 - Tầng 5 - Phòng ngủ trẻ em",
+      "path": "noi_that/fusion_gen_5/tang_5_phong_ngu_tre_em",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "fusion",
+        "fusion gen 5",
+        "dòng fusion",
+        "tầng 5",
+        "trẻ em",
+        "phòng ngủ con"
+      ],
+      "images": [
+        "noi_that/fusion_gen_5/tang_5_phong_ngu_tre_em/fusion-gen-5_phong-hoc.png",
+        "noi_that/fusion_gen_5/tang_5_phong_ngu_tre_em/fusion-gen-5_phong-ngu-con.png",
+        "noi_that/fusion_gen_5/tang_5_phong_ngu_tre_em/nyah-phu-dinh_mat-bang-tang-5.jpg"
+      ]
+    },
+    {
       "id": "noi_that__opus",
       "name": "Nội thất - Opus",
       "path": "noi_that/opus",
@@ -459,6 +682,90 @@
       ],
       "images": [
         "noi_that/opus/showroom/enscape_2023-01-16-20-23-36.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__tang_1_gara_phong_khach",
+      "name": "Nội thất - Opus - Tầng 1 - Gara & Phòng khách",
+      "path": "noi_that/opus/tang_1_gara_phong_khach",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "tầng 1",
+        "gara",
+        "phòng khách",
+        "tầng trệt"
+      ],
+      "images": [
+        "noi_that/opus/tang_1_gara_phong_khach/opus_tinh-nang-tang-1-2.jpg",
+        "noi_that/opus/tang_1_gara_phong_khach/opus_tinh-nang-tang-1.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__tang_3_bep_phong_an",
+      "name": "Nội thất - Opus - Tầng 3 - Bếp & Phòng ăn",
+      "path": "noi_that/opus/tang_3_bep_phong_an",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "tầng 3",
+        "bếp",
+        "phòng ăn"
+      ],
+      "images": [
+        "noi_that/opus/tang_3_bep_phong_an/opus_bep.jpg",
+        "noi_that/opus/tang_3_bep_phong_an/opus_tinh-nang-tang-3.jpg",
+        "noi_that/opus/tang_3_bep_phong_an/opus_wc.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__tang_4_master_suite",
+      "name": "Nội thất - Opus - Tầng 4 - Master Suite",
+      "path": "noi_that/opus/tang_4_master_suite",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "tầng 4",
+        "master",
+        "suite",
+        "phòng ngủ chính"
+      ],
+      "images": [
+        "noi_that/opus/tang_4_master_suite/opus_phong-ngu-master.jpg",
+        "noi_that/opus/tang_4_master_suite/opus_sanh-master.jpg",
+        "noi_that/opus/tang_4_master_suite/opus_tinh-nang-tang-4.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__opus__tang_5_phong_ngu_tre_em",
+      "name": "Nội thất - Opus - Tầng 5 - Phòng ngủ trẻ em",
+      "path": "noi_that/opus/tang_5_phong_ngu_tre_em",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "opus",
+        "dòng opus",
+        "tầng 5",
+        "trẻ em",
+        "phòng ngủ con"
+      ],
+      "images": [
+        "noi_that/opus/tang_5_phong_ngu_tre_em/opus_phong-ngu-1.jpg",
+        "noi_that/opus/tang_5_phong_ngu_tre_em/opus_phong-ngu-2.jpg"
       ]
     },
     {
@@ -549,6 +856,103 @@
         "noi_that/signature_by_codinachs/signature_by_codinachs-phoi-canh-2.jpg",
         "noi_that/signature_by_codinachs/signature_by_codinachs-phoi-canh-3.jpg",
         "noi_that/signature_by_codinachs/signature_by_codinachs-phoi-canh-4.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__signature_by_codinachs__tang_1_gara_phong_khach",
+      "name": "Nội thất - Signature by Codinachs - Tầng 1 - Gara & Phòng khách",
+      "path": "noi_that/signature_by_codinachs/tang_1_gara_phong_khach",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "signature",
+        "codinachs",
+        "dòng signature",
+        "tầng 1",
+        "gara",
+        "phòng khách",
+        "tầng trệt"
+      ],
+      "images": [
+        "noi_that/signature_by_codinachs/tang_1_gara_phong_khach/phong-khach-01-kt-pc.jpg",
+        "noi_that/signature_by_codinachs/tang_1_gara_phong_khach/phong-khach-01.jpg",
+        "noi_that/signature_by_codinachs/tang_1_gara_phong_khach/phong-khach-01b.jpg",
+        "noi_that/signature_by_codinachs/tang_1_gara_phong_khach/phong-khach-02.jpg",
+        "noi_that/signature_by_codinachs/tang_1_gara_phong_khach/phong-khach-03-kt-pc.jpg",
+        "noi_that/signature_by_codinachs/tang_1_gara_phong_khach/phong-khach-03.jpg",
+        "noi_that/signature_by_codinachs/tang_1_gara_phong_khach/phong-khach-04.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__signature_by_codinachs__tang_3_bep_phong_an",
+      "name": "Nội thất - Signature by Codinachs - Tầng 3 - Bếp & Phòng ăn",
+      "path": "noi_that/signature_by_codinachs/tang_3_bep_phong_an",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "signature",
+        "codinachs",
+        "dòng signature",
+        "tầng 3",
+        "bếp",
+        "phòng ăn"
+      ],
+      "images": [
+        "noi_that/signature_by_codinachs/tang_3_bep_phong_an/bep-1.jpg",
+        "noi_that/signature_by_codinachs/tang_3_bep_phong_an/bep-2.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__signature_by_codinachs__tang_4_master_suite",
+      "name": "Nội thất - Signature by Codinachs - Tầng 4 - Master Suite",
+      "path": "noi_that/signature_by_codinachs/tang_4_master_suite",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "signature",
+        "codinachs",
+        "dòng signature",
+        "tầng 4",
+        "master",
+        "suite",
+        "phòng ngủ chính"
+      ],
+      "images": [
+        "noi_that/signature_by_codinachs/tang_4_master_suite/6-mbr-1.jpg",
+        "noi_that/signature_by_codinachs/tang_4_master_suite/phong-ngu-master-bedroom-1.jpg",
+        "noi_that/signature_by_codinachs/tang_4_master_suite/phong-ngu-master-bedroom-2.jpg",
+        "noi_that/signature_by_codinachs/tang_4_master_suite/phong-ngu-master-bedroom-3.jpg",
+        "noi_that/signature_by_codinachs/tang_4_master_suite/phong-ngu-master-bedroom-4.jpg",
+        "noi_that/signature_by_codinachs/tang_4_master_suite/phong-ngu-master-bedroom-5.jpg"
+      ]
+    },
+    {
+      "id": "noi_that__signature_by_codinachs__tang_6_ban_cong",
+      "name": "Nội thất - Signature by Codinachs - Tầng 6 - Ban công",
+      "path": "noi_that/signature_by_codinachs/tang_6_ban_cong",
+      "keywords": [
+        "nội thất",
+        "interior",
+        "bên trong",
+        "thiết kế trong",
+        "signature",
+        "codinachs",
+        "dòng signature",
+        "tầng 6",
+        "ban công",
+        "sân thượng",
+        "tầng thượng"
+      ],
+      "images": [
+        "noi_that/signature_by_codinachs/tang_6_ban_cong/san-thuong-1.jpg",
+        "noi_that/signature_by_codinachs/tang_6_ban_cong/san-thuong-2.jpg",
+        "noi_that/signature_by_codinachs/tang_6_ban_cong/san-thuong-3.jpg"
       ]
     },
     {
